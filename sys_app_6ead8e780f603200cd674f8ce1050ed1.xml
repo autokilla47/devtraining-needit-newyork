@@ -3,6 +3,7 @@
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category/>
@@ -33,5 +34,6 @@
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
+        <x_416943_demo_demo_column/>
     </sys_app>
 </record_update>
